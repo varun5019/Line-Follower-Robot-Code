@@ -15,4 +15,8 @@ This code is for a line-follower robot operating on a white surface with a black
       <li> Female to Female </li>
       </ul>
   </li>
+  <li> BO Motors - 200 RPM </li>
+  <li> BO Motor wheels </li>
   </ol>
+  
+
