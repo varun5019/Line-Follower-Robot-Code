@@ -2,7 +2,7 @@
 
 This code is for a line-follower robot operating on a white surface with a black line. 
 
-<b> MATERIALS REQUIRED </b>
+<h3> MATERIALS REQUIRED </h3>
 
 <ol>
   <li> Arduino Uno/Nano </li>
@@ -18,5 +18,7 @@ This code is for a line-follower robot operating on a white surface with a black
   <li> BO Motors - 200 RPM </li>
   <li> BO Motor wheels </li>
   </ol>
+  
+<h3> 
   
 
