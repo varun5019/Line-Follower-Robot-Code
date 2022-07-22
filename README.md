@@ -2,7 +2,7 @@
 
 This code is for a line-follower robot operating on a white surface with a black line. 
 
-<h2> Materials Required </h2\>
+<h2> Materials Required </h2>
 
 <ol>
   <li> Arduino Uno/Nano </li>
