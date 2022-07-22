@@ -24,5 +24,5 @@ This code is for a line-follower robot operating on a white surface with a black
   ![screenshot_2020-08-23_at_11_56_42_am_N63GIEkksa](https://user-images.githubusercontent.com/74721898/180401807-0353a7aa-eae2-452d-b16c-357d7cf32de0.png)
 
 <h2> Project By </h2>
-<br>
+
 Varun Sangwan
